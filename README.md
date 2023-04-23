@@ -10,3 +10,7 @@
 * Start the server using `yarn dev` or `npm run dev`
 * Use `/recommend` or `/about` for interacting with API. Both endpoints take titles query parameter containing comma separated titles of movies or series.
 * The frontend can be cloned from https://github.com/sameer1612/next-best
+
+
+## App in action:
+[![Everything Is AWESOME](https://github.com/sameer1612/next-best/blob/main/nextbest.png)](https://www.youtube.com/watch?v=1IosTJ-nCCs "NextBest recommendation AI")
